@@ -1,0 +1,178 @@
+[
+  {
+    "id": 1,
+    "brand": "Honda",
+    "model": "Civic",
+    "year": 2020,
+    "transmission": "Automata",
+    "fuel_type": "Benzin",
+    "passengers": 5,
+    "daily_price_huf": 15000,
+    "image": "assets/car-images/honda_civic_2019.jpg"
+  },
+  {
+    "id": 2,
+    "brand": "Toyota",
+    "model": "Corolla",
+    "year": 2020,
+    "transmission": "Automata",
+    "fuel_type": "Hibrid",
+    "passengers": 5,
+    "daily_price_huf": 18000,
+    "image": "assets/car-images/toyota_corolla_2020.jpg"
+  },
+  {
+    "id": 3,
+    "brand": "Ford",
+    "model": "Focus",
+    "year": 2018,
+    "transmission": "Manu\u00e1lis",
+    "fuel_type": "D\u00edzel",
+    "passengers": 5,
+    "daily_price_huf": 15000,
+    "image": "assets/car-images/ford_focus_2018.jpg"
+  },
+  {
+    "id": 4,
+    "brand": "BMW",
+    "model": "3 Series",
+    "year": 2021,
+    "transmission": "Automata",
+    "fuel_type": "Benzin",
+    "passengers": 5,
+    "daily_price_huf": 25000,
+    "image": "assets/car-images/bmw_3_series_2021.jpg"
+  },
+  {
+    "id": 5,
+    "brand": "Audi",
+    "model": "A4",
+    "year": 2021,
+    "transmission": "Automata",
+    "fuel_type": "Benzin",
+    "passengers": 5,
+    "daily_price_huf": 24000,
+    "image": "assets/car-images/audi_a4_2021.jpg"
+  },
+  {
+    "id": 6,
+    "brand": "Mercedes-Benz",
+    "model": "C-Class",
+    "year": 2020,
+    "transmission": "Automata",
+    "fuel_type": "Benzin",
+    "passengers": 5,
+    "daily_price_huf": 26000,
+    "image": "assets/car-images/mercedes_benz_c_class_2020.jpg"
+  },
+  {
+    "id": 7,
+    "brand": "Volkswagen",
+    "model": "Golf",
+    "year": 2019,
+    "transmission": "Manu\u00e1lis",
+    "fuel_type": "D\u00edzel",
+    "passengers": 5,
+    "daily_price_huf": 17000,
+    "image": "assets/car-images/volkswagen_golf_2019.jpg"
+  },
+  {
+    "id": 8,
+    "brand": "Tesla",
+    "model": "Model 3",
+    "year": 2021,
+    "transmission": "Automata",
+    "fuel_type": "Elektromos",
+    "passengers": 5,
+    "daily_price_huf": 30000,
+    "image": "assets/car-images/tesla_model_3_2021.jpg"
+  },
+  {
+    "id": 9,
+    "brand": "Nissan",
+    "model": "Leaf",
+    "year": 2020,
+    "transmission": "Automata",
+    "fuel_type": "Elektromos",
+    "passengers": 5,
+    "daily_price_huf": 20000,
+    "image": "assets/car-images/nissan_leaf_2020.jpg"
+  },
+  {
+    "id": 10,
+    "brand": "Hyundai",
+    "model": "Elantra",
+    "year": 2019,
+    "transmission": "Manu\u00e1lis",
+    "fuel_type": "Benzin",
+    "passengers": 5,
+    "daily_price_huf": 16000,
+    "image": "assets/car-images/hyundai_elantra_2019.jpg"
+  },
+  {
+    "id": 11,
+    "brand": "Chevrolet",
+    "model": "Spark",
+    "year": 2020,
+    "transmission": "Automata",
+    "fuel_type": "Benzin",
+    "passengers": 4,
+    "daily_price_huf": 14000,
+    "image": "assets/car-images/chevrolet_spark_2020.jpg"
+  },
+  {
+    "id": 12,
+    "brand": "Kia",
+    "model": "Soul",
+    "year": 2021,
+    "transmission": "Automata",
+    "fuel_type": "Benzin",
+    "passengers": 4,
+    "daily_price_huf": 18000,
+    "image": "assets/car-images/kia_soul_2021.jpg"
+  },
+  {
+    "id": 13,
+    "brand": "Mazda",
+    "model": "CX-5",
+    "year": 2021,
+    "transmission": "Automata",
+    "fuel_type": "Benzin",
+    "passengers": 5,
+    "daily_price_huf": 22000,
+    "image": "assets/car-images/mazda_cx_5_2021.jpg"
+  },
+  {
+    "id": 14,
+    "brand": "Subaru",
+    "model": "Outback",
+    "year": 2021,
+    "transmission": "Automata",
+    "fuel_type": "Benzin",
+    "passengers": 5,
+    "daily_price_huf": 23000,
+    "image": "assets/car-images/subaru_outback_2021.jpg"
+  },
+  {
+    "id": 15,
+    "brand": "Honda",
+    "model": "Pilot",
+    "year": 2021,
+    "transmission": "Automata",
+    "fuel_type": "Benzin",
+    "passengers": 7,
+    "daily_price_huf": 28000,
+    "image": "assets/car-images/honda_pilot_2021.jpg"
+  },
+  {
+    "id": 16,
+    "brand": "tesz",
+    "model": "teszt",
+    "year": "2000",
+    "transmission": "Manu\u00e1lis",
+    "fuel_type": "benzin",
+    "passengers": "2",
+    "daily_price_huf": "3",
+    "image": "assets/car-images/"
+  }
+]

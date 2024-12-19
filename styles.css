@@ -1,0 +1,126 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@400;700&display=swap');
+
+body {
+  background-color: #121212;
+  color: #e0e0e0;
+  font-family: 'Montserrat', sans-serif;
+}
+
+.navbar {
+  background-color: #1f1f1f;
+}
+
+.navbar-brand {
+  font-weight: bold;
+  color: #e0e0e0;
+}
+
+.navbar-nav .nav-link {
+  color: #e0e0e0;
+}
+
+.navbar-nav .nav-link.cta {
+  background-color: #bb86fc;
+  color: #ffffff;
+  border-radius: 50px;
+  padding: 8px 16px;
+  margin-left: 10px;
+}
+
+.navbar-nav .nav-link.cta:hover {
+  background-color: #3700b3;
+  color: #ffffff;
+}
+
+.card {
+  background-color: #1f1f1f;
+  color: #e0e0e0;
+  transition: transform 0.2s, box-shadow 0.2s;
+  border: none;
+  border-radius: 10px;
+}
+
+.card:hover {
+  transform: scale(1.05);
+  box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
+
+.index-card:hover {
+  cursor: pointer;
+}
+
+.card-img-top {
+  border-top-left-radius: 10px;
+  border-top-right-radius: 10px;
+  height: 200px; /* Set a fixed height */
+  object-fit: cover; /* Ensure the image covers the area */
+}
+
+.card-title {
+  font-size: 1.25rem;
+  font-weight: 700;
+}
+
+.card-text strong {
+  font-size: 1.1rem;
+  font-weight: 700;
+}
+
+.btn-primary {
+  background-color: #bb86fc;
+  border-color: #bb86fc;
+  border-radius: 50px;
+  padding: 10px 20px;
+}
+
+.btn-primary:hover {
+  background-color: #3700b3;
+  border-color: #3700b3;
+}
+
+.btn-primary:active {
+  background-color: #6200ea;
+  border-color: #6200ea;
+}
+
+.form-control {
+  background-color: #2c2c2c;
+  color: #e0e0e0;
+  border: 1px solid #444;
+}
+
+.form-control::placeholder {
+  color: #888;
+}
+
+.list-group-item {
+  background-color: #1f1f1f;
+  color: #e0e0e0;
+  border: 1px solid #444;
+}
+
+.form-background {
+  background-color: #1f1f1f;
+}
+
+.nav-link:hover,
+.cta:hover,
+.alert-link:hover {
+  color: #bb86fc;
+}
+
+.btn:hover {
+  opacity: 0.8;
+}
+
+#calendar {
+  background-color: #121212;
+  color: #e0e0e0;
+}
+.fc-event {
+  background-color: #ff9f89;
+  border: none;
+}
+.fc-daygrid-day-number {
+  color: #e0e0e0;
+}

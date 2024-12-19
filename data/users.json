@@ -1,0 +1,20 @@
+[
+  {
+    "name": "John Doe",
+    "email": "johndoe@gmail.com",
+    "password": "$2y$12$ij5CcYdVKmK4GPmAHJDh9ej4f8yb9S7.Z1uzgMYclO.1ii.Y6.rDq",
+    "is_admin": false
+  },
+  {
+    "name": "Teszt teszt",
+    "email": "teszt@gmail.com",
+    "password": "$2y$12$N2B4slNmAjGMCFnQdwkE5uyUpyLi68FeVNPXE59AitWmTS0gqhJIu",
+    "is_admin": false
+  },
+  {
+    "email": "admin@ikarrental.hu",
+    "password": "$2y$12$o.CSCi8yxEqGBCE2YKcB1.YqELhUhLF0eCa4hys0FSqs3ksDAG6G2",
+    "name": "Admin",
+    "is_admin": true
+  }
+]
